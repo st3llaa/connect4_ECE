@@ -1,0 +1,10 @@
+Copying to /home/linux/ieng6/ee15wi23/turnin.dest/ee15wi23ix.PA5
+..
+Done.
+Total bytes written: 6656
+Please check to be sure that's reasonable.
+Copying to /home/linux/ieng6/ee15wi23/turnin.dest/ee15wi23ix.PA5-R
+...........
+Done.
+Total bytes written: 6656
+Please check to be sure that's reasonable.

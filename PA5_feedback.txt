@@ -1,0 +1,47 @@
+*** ee15wi23ix ***
+ PA5 grading feedback:
+    valid_move (20.0/20.0 pts):
+        Test  1:   Correct return value
+        Test  2:   Correct return value
+        Test  3:   Correct return value
+        Test  4:   Correct return value
+        Test  5:   Correct return value
+        Test  6:   Correct return value
+        Test  7:   Correct return value
+        Test  8:   Correct return value
+
+    add_move_board (20.0/20.0 pts):
+        Test  1:   Correct operation: move was added correctly and correct return value
+        Test  2:   Correct operation: move was not added and correct return value
+        Test  3:   Correct operation: move was added correctly and correct return value
+        Test  4:   Correct operation: move was added correctly and correct return value
+        Test  5:   Correct operation: move was added correctly and correct return value
+
+    grade_computer_move (6.0/20.0 pts):
+        Test  1:   Correct column chosen in all 100 iterations
+                   Some valid columns were ignored (50% deduction)
+        Test  2:   An incorrect column was chosen at least once in 100 iterations
+        Test  3:   An incorrect column was chosen at least once in 100 iterations
+        Test  4:   Correct column chosen in all 100 iterations
+                   Some valid columns were ignored (50% deduction)
+        Test  5:   Correct column chosen in all 100 iterations
+                   Some valid columns were ignored (50% deduction)
+
+    check_winning (30.0/40.0 pts):
+        Test  1:   Correct return value
+        Test  2:   Correct return value
+        Test  3:   Correct return value
+        Test  4:   Incorrect return value
+        Test  5:   Correct return value
+        Test  6:   Incorrect return value
+        Test  7:   Correct return value
+        Test  8:   Correct return value
+
+    Pre-tournament (0.0/5.0 pts):
+        Playing your AI against our test player (level 1) for 1000 rounds
+              Our test player score: 1000.0 
+              Your AI score        : 0.0 
+                 Your AI played an invalid move 1000 time(s)
+        Your score did not qualify you for the main tournament
+
+
